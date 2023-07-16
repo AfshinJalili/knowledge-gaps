@@ -16,3 +16,8 @@ like in NestJS application:
 some screenshots from video
 ![Screenshot from 2023-06-26 13-56-13](https://github.com/AfshinJalili/knowledge-gaps/assets/57655395/4b6cd16b-5e14-4fb2-a496-be10112ccb7f)
 ![Screenshot from 2023-06-26 13-59-18](https://github.com/AfshinJalili/knowledge-gaps/assets/57655395/e14fafa1-eab1-4a64-8b68-ab8710c81c70)
+
+
+### Docker
+
+### Algorithms and Data Structure
