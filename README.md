@@ -3,6 +3,9 @@ What I didn't know and needed to learn about them
 
 Contents
 * MVC
+* Docker
+* Algorithms and Data Structure
+
 
 ### MVC
 good video: https://youtu.be/pCvZtjoRq1I
